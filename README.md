@@ -19,7 +19,7 @@ Remember that you need to do this manually by adding and commiting those files.
 ### Dataset size vs. MSE
 
 
-![TODO](results/dataset_size_vs_mse.png)
+![TODO](results/dataset_size_vs_mse_l2=0.png)
 
 ### Dataset size vs. MSE with ridge regularization
 
